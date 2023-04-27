@@ -21,18 +21,18 @@ Sonuç olarak, Go dilinin temel özellikleri arasında hızlı derleme süreci, 
 
 # İçerik:
 
-- **Values:** [Website](https://github.com/Furkan-Gulsen/golang-docs-turkce/variables) | Readme
-- **Constants:** [Website](https://github.com/Furkan-Gulsen/golang-docs-turkce/constants) | Readme
-- **For:** [Website](https://github.com/Furkan-Gulsen/golang-docs-turkce/for) | Readme
-- **if/else:** [Website](https://github.com/Furkan-Gulsen/golang-docs-turkce/if-else) | Readme
-- **Switch:** [Website](https://github.com/Furkan-Gulsen/golang-docs-turkce/switch) | Readme
-- **Arrays:** [Website](https://github.com/Furkan-Gulsen/golang-docs-turkce/arrays) | Readme
-- **Slices:** [Website](https://github.com/Furkan-Gulsen/golang-docs-turkce/slices) | Readme
-- **Maps:** [Website](https://github.com/Furkan-Gulsen/golang-docs-turkce/maps) | Readme
-- **Range:** [Website](https://github.com/Furkan-Gulsen/golang-docs-turkce/range) | Readme
-- **Functions:** [Website](https://github.com/Furkan-Gulsen/golang-docs-turkce/functions) | Readme
-- **Variadic Functions:** [Website](https://github.com/Furkan-Gulsen/golang-docs-turkce/variadic-functions) | Readme
-- **Closures:** [Website](https://github.com/Furkan-Gulsen/golang-docs-turkce/closures) | Readme
+- **Values:** [Website](https://docs.furkangulsen.com/golang/variables) | [Readme](https://github.com/Furkan-Gulsen/golang-docs-turkce/variables)
+- **Constants:** [Website](https://docs.furkangulsen.com/golang/constants) | [Readme](https://github.com/Furkan-Gulsen/golang-docs-turkce/variables)
+- **For:** [Website](https://docs.furkangulsen.com/golang/for) | [Readme](https://github.com/Furkan-Gulsen/golang-docs-turkce/variables)
+- **if/else:** [Website](https://docs.furkangulsen.com/golang/if-else) | [Readme](https://github.com/Furkan-Gulsen/golang-docs-turkce/variables)
+- **Switch:** [Website](https://docs.furkangulsen.com/golang/switch) | [Readme](https://github.com/Furkan-Gulsen/golang-docs-turkce/variables)
+- **Arrays:** [Website](https://docs.furkangulsen.com/golang/arrays) | [Readme](https://github.com/Furkan-Gulsen/golang-docs-turkce/variables)
+- **Slices:** [Website](https://docs.furkangulsen.com/golang/slices) | [Readme](https://github.com/Furkan-Gulsen/golang-docs-turkce/variables)
+- **Maps:** [Website](https://docs.furkangulsen.com/golang/maps) | [Readme](https://github.com/Furkan-Gulsen/golang-docs-turkce/variables)
+- **Range:** [Website](https://docs.furkangulsen.com/golang/range) | [Readme](https://github.com/Furkan-Gulsen/golang-docs-turkce/variables)
+- **Functions:** [Website](https://docs.furkangulsen.com/golang/functions) | [Readme](https://github.com/Furkan-Gulsen/golang-docs-turkce/variables)
+- **Variadic Functions:** [Website](https://docs.furkangulsen.com/golang/variadic-functions) | [Readme](https://github.com/Furkan-Gulsen/golang-docs-turkce/variables)
+- **Closures:** [Website](https://docs.furkangulsen.com/golang/closures) | [Readme](https://github.com/Furkan-Gulsen/golang-docs-turkce/variables)
 
 ### Kullandığım kaynaklar:
 - https://gobyexample.com
