@@ -33,6 +33,11 @@ Sonuç olarak, Go dilinin temel özellikleri arasında hızlı derleme süreci, 
 - **Functions:** [Website](https://docs.furkangulsen.com/golang/functions) | [Readme](https://github.com/Furkan-Gulsen/golang-docs-turkce/tree/main/functions)
 - **Variadic Functions:** [Website](https://docs.furkangulsen.com/golang/variadic-functions) | [Readme](https://github.com/Furkan-Gulsen/golang-docs-turkce/tree/main/variadic-functions)
 - **Closures:** [Website](https://docs.furkangulsen.com/golang/closures) | [Readme](https://github.com/Furkan-Gulsen/golang-docs-turkce/tree/main/closures)
+- **Recursion:** [Website](https://docs.furkangulsen.com/golang/recursion) | [Readme](https://github.com/Furkan-Gulsen/golang-docs-turkce/tree/main/recursion)
+- **Pointers:** [Website](https://docs.furkangulsen.com/golang/pointers) | [Readme](https://github.com/Furkan-Gulsen/golang-docs-turkce/tree/main/pointers)
+- **Strings and Runes:** [Website](https://docs.furkangulsen.com/golang/strings-and-runes) | [Readme](https://github.com/Furkan-Gulsen/golang-docs-turkce/tree/main/strings-and-runes)
+
+
 
 ### Kullandığım kaynaklar:
 - https://gobyexample.com
