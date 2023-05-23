@@ -79,3 +79,8 @@ func main() {
 ```
 
 Bu örnekte, Person adlı bir yapı tanımlanır ve json.Marshal() ve json.Unmarshal() fonksiyonları kullanılarak bu yapı JSON verisi olarak kodlanır ve çözümlenir.
+
+```
+{"Name":"Alice","Age":30}
+{Bob 40}
+```
