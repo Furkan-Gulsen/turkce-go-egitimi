@@ -436,7 +436,7 @@ Bu örnekte, swap adlı bir fonksiyon tanımlanır. Fonksiyon, a ve b adlı iki 
 
 
 
-#<br><br>
+<br><br>
 
 # Variadic Functions
 
@@ -998,7 +998,7 @@ Kanallar, Golang'de birçok durumda kullanılabilir, örneğin:
 4. Goroutineler arasında veri yarışmalarını önlemek için
 5. Görevlerin koordinasyonu ve senkronizasyonu için
 
-#<br><br>
+<br><br>
 
 # Nedir bu Paralel işlemler?
 
@@ -1017,7 +1017,7 @@ Golang'daki paralel işlem yapma yeteneği, özellikle büyük ölçekli, hesapl
 
 Bu örnekler, paralel işlemlerin ne gibi durumlarda kullanılabileceğine dair bir fikir vermektedir. Golang'daki goroutine'ler sayesinde, bu tür işlemleri daha hızlı ve verimli bir şekilde gerçekleştirebilirsiniz.
 
-#<br><br>
+<br><br>
 
 # Buffering
 
@@ -1054,7 +1054,7 @@ World
 
 Bu örnekte, channel buffering kullanarak, messages channel'ı boyutu 2 olarak tanımlandı. Böylece, Hello ve World mesajları channel'a gönderildi ve channel'da depolandı. <-messages kullanılarak, mesajlar sırayla channel'dan alındı ve ekrana yazdırıldı.
 
-#<br><br>
+<br><br>
 
 # Channel Synchronization
 
@@ -1097,7 +1097,7 @@ working...done
 
 Bu örnekte, channel senkronizasyonu kullanarak, worker fonksiyonu bir goroutine olarak çağrıldı. worker fonksiyonu, done channel'ına bir mesaj gönderir ve işlemi tamamlanır. main fonksiyonu, <-done kullanılarak, worker fonksiyonunun işlemi tamamlamasını bekler. Sonuç olarak, working...done mesajları sırayla ekrana yazdırılır.
 
-#<br><br>
+<br><br>
 
 # Channel Directions
 
@@ -1850,7 +1850,7 @@ Bu örnekte, Person tipinde bir slice tanımlanır ve sort.Slice() fonksiyonu ku
 [{Charlie 20} {Alice 25} {Bob 30}]
 ```
 
-#<br><br>
+<br><br>
 
 # Diğer Örnekler
 
