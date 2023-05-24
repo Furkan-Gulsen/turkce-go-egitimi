@@ -4,7 +4,7 @@
 
 
 
-Bu repo, Go dilini hızlı bir şekilde öğrenmek isteyenler için hazırlanmış bir eğitim serisidir. Toplamda 40 konuyu, örnekler üzerinden anlatarak dilin temel yapılarını kapsar. Aynı zamanda bu eğitim serisi, Go dilini öğrenmek isteyenlere düzenli bir kaynak sunmayı amaçlar. Her bir konu, açıklayıcı ve anlaşılır bir şekilde ele alınmıştır, böylece okuyucuların Go dilini kolayca ve hızlıca öğrenmeleri hedeflenir. Bu eğitim serisini aynı zamanda [https://docs.furkangulsen.com/golang-dokumanı/](https://docs.furkangulsen.com/golang-dokumanı/) web sitesinden de takip edebilirsiniz.
+Bu repo, Go dilini hızlı bir şekilde öğrenmek isteyenler için hazırlanmış bir eğitim serisidir. Toplamda 40 konuyu, örnekler üzerinden anlatarak dilin temel yapılarını kapsar. Aynı zamanda bu eğitim serisi, Go dilini öğrenmek isteyenlere düzenli bir kaynak sunmayı amaçlar. Her bir konu, açıklayıcı ve anlaşılır bir şekilde ele alınmıştır, böylece okuyucuların Go dilini kolayca ve hızlıca öğrenmeleri hedeflenir. Bu eğitim serisini aynı zamanda [https://docs.furkangulsen.com/golang-dokumani](https://docs.furkangulsen.com/golang-dokumani) web sitesinden de takip edebilirsiniz.
 
 Repoyu beğenirseniz daha fazla kişiye ulaşması için yıldız atabilir ve sosyal medya hesaplarınızda paylaşabilirsiniz  ⭐️
 
