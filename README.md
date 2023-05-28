@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="logo" src="https://miro.medium.com/v2/resize:fit:1200/0*DWuaFZuGhnXDKCds.png" width="224px"/><br/>Go Eğitim Serisi
+  <img alt="logo" src="https://miro.medium.com/v2/resize:fit:1200/0*DWuaFZuGhnXDKCds.png" width="224px"/><br/>Türkçe Go Eğitimi
 </h1>
 
 
