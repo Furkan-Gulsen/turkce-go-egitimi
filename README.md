@@ -951,7 +951,7 @@ Hello
 World
 ```
 
-Bu örnekte, goroutine kullanarak, sayHello fonksiyonu eşzamanlı olarak çalıştırıldı. sayHello fonksiyonu, goroutine olarak çağrıldığı için, diğer işlemlerden bağımsız olarak çalıştı ve sonuç olarak ekrana Heşşp mesajı yazdırıldıktan sonra World mesajı yazdırıldı.
+Bu örnekte, goroutine kullanarak, sayHello fonksiyonu eşzamanlı olarak çalıştırıldı. sayHello fonksiyonu, goroutine olarak çağrıldığı için, diğer işlemlerden bağımsız olarak çalıştı ve sonuç olarak ekrana Hello mesajı yazdırıldıktan sonra World mesajı yazdırıldı.
 
 
 
